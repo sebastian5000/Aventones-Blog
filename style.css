@@ -1,0 +1,119 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#header{
+	background: #FFFFFF url("images/hback.png") repeat-x;
+	padding-top:10px;
+	border-bottom:2px solid #E6E6E6;
+	height:75px;
+	font-family:Arial;
+	margin-bottom:18px;
+}
+
+.options{
+	float: right;
+	margin-top: 30px;
+}
+
+.options a{
+	color:#669933;
+}
+
+.options span{
+	margin-right:20px;
+	color:#669933;
+	font-size:16px;
+}
+
+.date{
+	color:#666666;
+	font-size:16px;
+	font-family:Arial;
+	font-size:.9em;
+}
+
+.autorcomment{
+	color:#669933;
+	font-size:16px;
+	font-family:Arial;
+	font-size:.9em;
+	margin-right:4px;
+}
+
+#content h1 a{
+	font-size:1em;
+	color:#669933;
+	text-decoration:none;
+	font-family:'Myriad Pro';
+	font-weight:bold;
+}
+
+#content h1{
+	margin:0px;
+}
+
+.oficialpost p{
+	font-size:1.1em;
+	color:#666666;
+}
+
+.left{
+	width:610px;
+	float:left;
+}
+
+.postinfo span{
+	margin-right:10px;
+	font-family:Arial;
+	font-size:.9em;
+	color:#666666;
+}
+
+.autorcomment2{
+	background:url("images/minilogo.png") no-repeat scroll 82px -3px transparent;
+	color:#669933;
+	font-size:16px;
+	font-family:Arial;
+	font-size:.9em;
+	font-weight:bold;
+	margin-right:4px;
+	padding-right:90px;
+}
+
+.comments{
+	background:url("images/car.png") no-repeat scroll 0 3px transparent;
+	padding-left:20px;
+	font-size:.9em;
+	color:#666666;
+	font-family:Arial;
+}
+
+.postsection{
+	background-color:#E0EBD6;
+	margin-top:8px;
+}
+
+.post{
+	margin-top:5px;
+	padding: 12px 10px;
+}
+
+.postaventon{
+	background:#FFFFFF;
+	padding: 12px 10px;
+	border:1px solid #E0EBD6;
+}
+
+.message{
+	color:#7F7F7F;
+	font-size:.9em;
+	font-family:arial;
+	margin:8px 0;
+}
+
+.center{
+	width:900px;
+	margin:0 auto;
+}
