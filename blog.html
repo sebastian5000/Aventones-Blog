@@ -101,6 +101,42 @@
         <a class="categories" href="/">twitter</a></br>
         <a class="categories" href="/">facebook</a>
         
+        <div id="tweets">
+          
+          <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+          <script>
+          new TWTR.Widget({
+            version: 2,
+            type: 'profile',
+            rpp: 6,
+            interval: 30000,
+            width: 270,
+            height: 400,
+            theme: {
+              shell: {
+                background: '#e0ebd6',
+                color: '#333333'
+              },
+              tweets: {
+                background: '#ffffff',
+                color: '#808080',
+                links: '#669933'
+              }
+            },
+            features: {
+              scrollbar: true,
+              loop: false,
+              live: true,
+              hashtags: true,
+              timestamp: true,
+              avatars: false,
+              behavior: 'all'
+            }
+          }).render().setUser('Aventones').start();
+          </script>
+          
+        </div><!--tweets-->
+        
       </div><!--right-->
       
     </div><!--center-->
