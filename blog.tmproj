@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentDocument</key>
+	<string>Desktop/Aventones Blog/Aventones Blog/blog.html</string>
+	<key>documents</key>
+	<array>
+		<dict>
+			<key>filename</key>
+			<string>Aventones Blog/Aventones Blog/blog.html</string>
+			<key>lastUsed</key>
+			<date>2011-10-13T22:38:15Z</date>
+			<key>selected</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>filename</key>
+			<string>Aventones Blog/Aventones Blog/style.css</string>
+			<key>lastUsed</key>
+			<date>2011-10-13T22:38:15Z</date>
+		</dict>
+	</array>
+	<key>fileHierarchyDrawerWidth</key>
+	<integer>200</integer>
+	<key>metaData</key>
+	<dict>
+		<key>Desktop/Aventones Blog/Aventones Blog/blog.html</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>68</integer>
+				<key>line</key>
+				<integer>46</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>23</integer>
+		</dict>
+		<key>Desktop/Aventones Blog/Aventones Blog/style.css</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>58</integer>
+				<key>line</key>
+				<integer>74</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>43</integer>
+		</dict>
+	</dict>
+	<key>openDocuments</key>
+	<array>
+		<string>Desktop/Aventones Blog/Aventones Blog/style.css</string>
+		<string>Desktop/Aventones Blog/Aventones Blog/blog.html</string>
+	</array>
+	<key>showFileHierarchyDrawer</key>
+	<true/>
+	<key>windowFrame</key>
+	<string>{{214, 0}, {1066, 778}}</string>
+</dict>
+</plist>

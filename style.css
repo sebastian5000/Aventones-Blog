@@ -1,6 +1,6 @@
 body{
 	margin:0;
-	padding:0;
+	padding-bottom:80px;
 }
 
 #header{
@@ -10,6 +10,19 @@ body{
 	height:75px;
 	font-family:Arial;
 	margin-bottom:18px;
+}
+
+#header img{
+	float:left;
+}
+
+.slogan{
+	float:left;
+	font-size:1.2em;
+	font-family:'Myriad Pro';
+	color:#999999;
+	margin:30px 0px 0px 20px;
+	text-shadow:2px 1px 1px #FFFFFF;
 }
 
 .options{
@@ -48,6 +61,11 @@ body{
 	text-decoration:none;
 	font-family:'Myriad Pro';
 	font-weight:bold;
+}
+
+#content h1 a:hover{
+	background:#669933;
+	color:#FFFFFF;
 }
 
 #content h1{
@@ -113,7 +131,35 @@ body{
 	margin:8px 0;
 }
 
+.right{
+	width:270px;
+	float:right;
+}
+
+.category{
+	background-color: #E0EBD6;
+	color: #7F7F7F;
+	font-family: Arial;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.rightcomment{
+	font-family: Arial;
+	font-size:.8em;
+	color:#999999;
+}
+
+a.categories{
+	font-size:.9em;
+	color:#669933;
+}
+
 .center{
 	width:900px;
 	margin:0 auto;
+}
+
+.clear{
+	clear:both;
 }
