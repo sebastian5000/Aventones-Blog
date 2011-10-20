@@ -136,6 +136,17 @@ body{
 	float:right;
 }
 
+.right input{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	font-size:14px;
+	border: 1px solid #E6E6E6;
+	padding: 7px 5px;
+	width: 258px;
+	color:#999999;
+	background:#f5f5f5 url('images/backsearch.png') repeat-x;
+}
+
 .category{
 	background-color: #E0EBD6;
 	color: #7F7F7F;
